@@ -1,0 +1,70 @@
+body{
+	background-color: #4F4B4B
+}
+img{
+	width: 200px;
+	height:200px;
+	border-radius: 50%;
+}
+
+.b{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	background-color: #216305;
+	border-color: black;
+	border-radius: 50%;
+	display:  inline-block;
+}
+.c{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	background-color: black;
+	border-color: #216305;
+	border-radius: 50%;
+	display:  inline-block;
+}
+.d{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	background-color: #216305;
+	border-color: black;
+	border-radius: 50%;
+	display:  inline-block;
+}
+.a{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	background-color: black;
+	border-color: #216305;
+	border-radius: 50%;
+	display:  inline-block;
+}
+
+
+
+
+
+
+#cc{
+	width: 300px;
+	height: 150px;
+	border:solid 3px;
+	background-color: green;
+	border-color:purple
+}
+
+
+
+
+#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+#sortable li span { position: absolute; margin-left: -1.3em; }
+
+.toggler { width: 500px; height: 200px; position: relative; }
+#button { padding: .5em 1em; text-decoration: none; }
+#effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+#effect h3 { margin: 0; padding: 0.4em; text-align: center; }
